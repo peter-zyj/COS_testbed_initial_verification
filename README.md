@@ -1,6 +1,7 @@
 # COS_testbed_initial_verification
 ```
-initial v1 ping checking
+initial v1 
+ping checking
 Curl checking
 NTP checking
 
